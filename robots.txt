@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xusielait.wensday.co/sitemap.xml
